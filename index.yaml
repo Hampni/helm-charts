@@ -1,0 +1,12 @@
+apiVersion: v2
+entries:
+  nginx-chart:
+    - apiVersion: v2
+      appVersion: "1.0.0"
+      description: "my own nginx chart"
+      digest: "sha256:5853ee3000ec398b957aabb9d869d6818ed7d9cf"
+      name: nginx-chart
+      sources:
+      - https://github.com/Hampni/helm-charts/nginx-chart-0.1.0.tgz
+      type: application
+      version: "0.1.0"
