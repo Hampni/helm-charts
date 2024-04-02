@@ -3,15 +3,15 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-04-02T16:10:48.0026+03:00"
+    created: "2024-04-02T16:48:40.016939+03:00"
     description: My First Helm Chart
-    digest: 6d651c3152dd8dff291d4602a9fd0976ad81af31f4c575eb1a794a052fdb7918
+    digest: 7acf056a24e1f9d4f00def7c56e75ea3b540642608bc3a9330a9e683d72db9ff
     maintainers:
     - email: contact@devopscube.com
       name: devopscube
     name: nginx-chart
     type: application
     urls:
-    - charts/nginx-chart-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-04-02T16:10:48.001979+03:00"
+    - charts/nginx-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-04-02T16:48:40.016394+03:00"
