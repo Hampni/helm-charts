@@ -1,12 +1,17 @@
-apiVersion: v2
+apiVersion: v1
 entries:
   nginx-chart:
-    - apiVersion: v2
-      appVersion: "1.0.0"
-      description: "my own nginx chart"
-      digest: "sha256:5853ee3000ec398b957aabb9d869d6818ed7d9cf"
-      name: nginx-chart
-      sources:
-      - https://github.com/Hampni/helm-charts/nginx-chart-0.1.0.tgz
-      type: application
-      version: "0.1.0"
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-04-02T14:43:41.62834+03:00"
+    description: My First Helm Chart
+    digest: 37742f26d0c6ccb0358999b96cdf4707d1b95577f6b303635d56e5c60c9027a6
+    maintainers:
+    - email: contact@devopscube.com
+      name: devopscube
+    name: nginx-chart
+    type: application
+    urls:
+    - nginx-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-02T14:43:41.627529+03:00"
