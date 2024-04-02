@@ -12,6 +12,6 @@ entries:
     name: nginx-chart
     type: application
     urls:
-    - nginx-chart-0.1.0.tgz
+    - charts/nginx-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-02T14:43:41.627529+03:00"
